@@ -1,6 +1,6 @@
 # Tic-Tac-Toe 
 
-This Tic-Tac-Toe game was intended to be viewed in the console of IntelliJ.
+This Tic-Tac-Toe game was intended to be viewed in the console of an IDE e.g. IntelliJ.
 
 The game plays itself and the history of movements for each player is printed in the console along with the board.
 
